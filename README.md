@@ -14,3 +14,7 @@ I used this data to produce a set of useful and attractive visualisations to all
 
 I love using data to show real world trends and while the techniques used in this programme were quite simple, they produced great results that were actually very useful to the decision makers in the company.
 
+The code in this programme was put together pretty quickly and is not intended to be reusable on other data analysis projects as it was quite particular to this dataset.
+
+It uses a combination of pandas plots and matplotlib. Pandas plotting is very simple to use but I like the fact that you can use both in conjunction with one another, creating a plot using pandas notation and then customising using the additional options available through the matplotlib API.
+
